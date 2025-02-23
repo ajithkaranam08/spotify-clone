@@ -1,5 +1,3 @@
-<h1 align="center">Realtime Spotify Application ✨</h1>
-
 ### Setup .env file in _backend_ folder
 
 ```bash
